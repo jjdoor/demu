@@ -1,0 +1,10 @@
+.DS_Store
+composer.lock
+.php_cs.cache
+/vendor/
+/public
+.idea/
+coverage.xml
+results.xml
+docs/_build
+docs/make.bat

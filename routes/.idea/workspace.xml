@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322710bf-2b6a-488b-b3ce-82d3da32370e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/demu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/demu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ClearCompanyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Http/Controllers/ClearCompanyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CommonController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Http/Controllers/CommonController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ContractController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Http/Controllers/ContractController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TestsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Http/Controllers/TestsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Validation/Validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_06_17_024958_create_contracts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../database/migrations/2019_06_17_024958_create_contracts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/test001.php" beforeDir="false" afterPath="$PROJECT_DIR$/../public/test001.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vendor/laravel/framework/src/Illuminate/Validation/Validator.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322710bf-2b6a-488b-b3ce-82d3da32370e" name="Default Changelist" comment="" />
+      <created>1565765039868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565765039868</updated>
+      <workItem from="1565765053326" duration="13000" />
+      <workItem from="1567066140782" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="692000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
